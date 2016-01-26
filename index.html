@@ -1,32 +1,23 @@
-<!doctype html>
-<html lang="en" class="no-js">
-<head>
-<meta charset="utf-8">
-<script>document.documentElement.className="js"</script>
-<title>Akshit Arora</title>
-<link href="//fonts.googleapis.com/css?family=IM+Fell+DW+Pica&subset=latin" rel="stylesheet">
-<link href="style.css" rel="stylesheet">
-</head>
-<body>
-<section id="wrapper">
-<h1><span class="firstname">Akshit<span class="sz">Arora</span></span><span class="nbsp">&nbsp;</span><span class="lastname"><span class="sz">Arora</span></span></h1>
-<h2>
-    Pre-Final Year<br>
-    B.E. Computer Engineering<br>
-    Thapar University, Patiala<br>
-    India<br><br>
-</h2>
-<h3>TravelBuff . OpenSourceGuy . Photographer . Explorer . Researcher<br>
-    </h3>
-</section>
+---
+layout: default
+---
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script>
-    $(function(){
-        $("h1").delay(500).fadeIn(1000);
-        $("h2").delay(1500).fadeIn(1000);
-        $("h3").delay(2500).fadeIn(1000);
-    });
-</script>
-</body>
-</html>
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
