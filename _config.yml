@@ -21,3 +21,4 @@ markdown: kramdown
 #additional settings from http://jekyllrb.com/docs/configuration/
 timezone: IN
 author: Akshit Arora
+tumblr_username: aarora
