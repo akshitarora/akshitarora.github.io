@@ -20,4 +20,6 @@ markdown: kramdown
 
 #additional settings from http://jekyllrb.com/docs/configuration/
 timezone: IN
-author: Akshit Arora
+webrick:
+  headers:
+    author: Akshit Arora
