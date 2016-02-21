@@ -19,6 +19,11 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% for add_page in site.data.add_pages %}
+          {% if add_page.name %}
+          <a class="page-link" href="{{ add_page.folder }}">{{ add_page.name }}</a>
+          {% endif %}
+        {% endfor %}
       </div>
     </nav>
 
