@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<h3>Akshit Arora</h3>
+I am Pre-final year Bachelor's of Computer Science and Engineering Student at Thapar University, Patiala, India. I love learning new things from my sorroundings. I am driven by my curiosity to know more about this world.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I started out in machine learning in my first year in college, and since then, it has been a never ending fun for me. This blog comes in as a part of my self-motivation for pursuing ML and AI. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I intend to play around with basic concepts of machine learning and publish them here as I grow up.
+
+I am also a part of <a href="pratik.acslab.org">Applied Cognitive Science Laboratory</a> at <a href="http://iitmandi.ac.in/">Indian Institute of Technology (IIT), Mandi</a>. My main interests are Machine Learning, Artificial Intelligence and Cognitive Sciences. We are working on a research tool: an Interactive Landslide Simulator. Feel free to check it out. -> <a href="http://pratik.acslab.org" title="Interactive Landslide Simulator">http://pratik.acslab.org</a>
+
+Research apart, I also love photography and listening to music. And I am always looking out for opportunities around travel, exploration and adrenaline rush ;)
+
+Blog still under development, more improvements coming soon!

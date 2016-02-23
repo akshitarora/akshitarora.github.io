@@ -6,9 +6,53 @@
 </description>
     <link>http://akshitarora.github.io/</link>
     <atom:link href="http://akshitarora.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Feb 2016 20:09:05 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Feb 2016 20:09:05 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2016 21:24:08 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2016 21:24:08 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Playground!</title>
+        <description>&lt;p&gt;Hello, this is my first blog post using Jekyll. P.S. I still use &lt;a href=&quot;http://aarora.tumblr.com&quot;&gt;tumblr - Feelings :D&lt;/a&gt; for blogging. This blog is mainly intended for technical purposes. To me, the whole world is nothing but a giant experiment, so the name &lt;code class=&quot;highlighter-rouge&quot;&gt;Playground&lt;/code&gt; is more like my personal playground, where I get to perform my own experiments, play around codes and publish my small accomplishments. My main research interests are Machine Learning, Artificial Intelligence, Statistics (this is more of a pre-requisite to ML and AI :P) and Cognitive Sciences.&lt;/p&gt;
+
+&lt;p&gt;I am also a part of &lt;a href=&quot;pratik.acslab.org&quot;&gt;Applied Cognitive Science Laboratory&lt;/a&gt; at &lt;a href=&quot;http://iitmandi.ac.in/&quot;&gt;Indian Institute of Technology (IIT), Mandi&lt;/a&gt;. I worked under &lt;a href=&quot;faculty.iitmandi.ac.in/~varun/&quot;&gt;Dr. Varun Dutt&lt;/a&gt; and &lt;a href=&quot;https://www.researchgate.net/profile/Pratik_Chaturvedi&quot;&gt;Pratik Chaturvedi (Scientist ‘D’, at DTRL, DRDO, New Delhi)&lt;/a&gt;. We worked on understanding various factors that are involved in people’s interaction with natural calamities like Landslides. We first modelled the whole landslide prediction and then made a cognitive model around it to study people’s behavior. I was the one who coded the whole simulator and only recently, we actually performed the experiments and got the results.&lt;/p&gt;
+
+&lt;p&gt;It was amazing! This was my first hand experience in research, doing actual experiments and it was so cool. I know every single line of code working inside that simulator (merely a tool for research). The whole 8 months process now, has been like raising a child. And those results were amazing!&lt;/p&gt;
+
+&lt;p&gt;Somewhere in between those 8 months, I found out that I really did enjoy research and decided to pursue it further. This blog is like my diary for every little experiment I do. Now, that I knew I had to pursue research, first work was to identify a research topic that really challenged me and something I can’t not think about every day (inspired by a TED Talk: &lt;a href=&quot;https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love&quot;&gt;How to find work you love - by Scott Dinsmore&lt;/a&gt;). Turns out, machine learning was perfect. Only recently was I asked to implement a reinforcement learning algorithm on the landslide prediction mathematical model we had built, it sparked my interest towards learning algorithms. Turns out, the concepts were not new to me.&lt;/p&gt;
+
+&lt;p&gt;Surprisingly, I was introduced to Machine Learning in my first year in college at an IEEE conference in my University. Back then, without much basics clear, I was unable to pursue it, but now that I have the pre-requisites, and thanks to &lt;a href=&quot;http://coursera.org&quot;&gt;Coursera&lt;/a&gt; for making this one possible, I will be completing my coursework on machine learning soon. I am evolving right now, in machine learning and main objective behind setting up this blog is self-motivation. With machine learning, it has always been like “The more I discovered, the more I fell in love”. So, yeah, this is, perhaps, a new beginning in my life and this blog is all about my little playground ;)&lt;/p&gt;
+
+&lt;p&gt;There a number of people who inspired me for setting up a blog. To mention a few: &lt;br /&gt;
+&amp;gt; Siddha Ganju (sidgan) &lt;a href=&quot;http://sidgan.me&quot;&gt;http://sidgan.me&lt;/a&gt; &lt;br /&gt;
+&amp;gt; Paul Stamatiou &lt;a href=&quot;http://paulstamatiou.com/10-years-blogging/&quot;&gt;http://paulstamatiou.com&lt;/a&gt;&lt;br /&gt;
+&amp;gt; Derbhagya Das (Deedy) &lt;a href=&quot;http://debarghyadas.com/&quot;&gt;http://debarghyadas.com/&lt;/a&gt;&lt;br /&gt;
+&amp;gt; Mark Manson &lt;a href=&quot;http://markmanson.net/&quot;&gt;http://markmanson.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog took me a while to set it all up, switching between different theme options, command line issues, but finally here it is. Let me make this work easy for you, if you too want to start blogging using Jekyll, these are some links you should definetly visit: &lt;br /&gt;
+&amp;gt; Jekyll documentation: &lt;a href=&quot;http://jekyllrb.com/docs&quot;&gt;http://jekyllrb.com/docs&lt;/a&gt; &lt;br /&gt;
+&amp;gt; Jekyll bootstrap: &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;http://jekyllbootstrap.com/&lt;/a&gt; &lt;br /&gt;
+&amp;gt; The blogs by Sidgan and Deedy are good examples to look up to.&lt;br /&gt;
+&amp;gt; Play around the code a bit, if you know some basic command line, CSS and HTML, you will understand the workaround in jekyll very easily.&lt;/p&gt;
+
+&lt;p&gt;Good Bye! Cheerios!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Feb 2016 20:12:00 +0000</pubDate>
+        <link>http://akshitarora.github.io/first/post/playground/initialize/beginning/2016/02/23/my-first-post.html</link>
+        <guid isPermaLink="true">http://akshitarora.github.io/first/post/playground/initialize/beginning/2016/02/23/my-first-post.html</guid>
+        
+        
+        <category>first</category>
+        
+        <category>post</category>
+        
+        <category>playground</category>
+        
+        <category>initialize</category>
+        
+        <category>beginning</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
