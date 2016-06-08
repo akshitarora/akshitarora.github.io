@@ -6,41 +6,73 @@
 </description>
     <link>http://akshitarora.github.io/</link>
     <atom:link href="http://akshitarora.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Mar 2016 09:36:04 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 09:36:04 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jun 2016 14:29:25 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jun 2016 14:29:25 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Deploying Jasper on Ubuntu 15.04</title>
-        <description>&lt;p&gt;&lt;b style=&quot;font-size:20pt&quot;&gt;What is Jasper?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;a href=&quot;https://jasperproject.github.io/&quot;&gt;Jasper&lt;/a&gt;&lt;i style=&quot;text-decoration:line-through&quot;&gt; Reports Server is a stand-alone and embeddable &lt;a href=&quot;http://community.jaspersoft.com/download&quot;&gt;reporting server&lt;/a&gt;&lt;/i&gt; is an open source platform for developing voice control applications. For me, just another cool problem to solve. The platform was made to be deployed on a Raspberry pi, but a lot of people have tried deploying it on desktop linux distributions too. Standard Raspberry pi deployment details can be found &lt;a href=&quot;https://jasperproject.github.io/documentation/installation/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+        <title>The Emotion Machine - Marvin Minsky</title>
+        <description>&lt;p&gt;This post is inspired from the book &quot;The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind&quot; by Marvin Minsky, a mathematician, computer scientist, and pioneer in the field of artificial intelligence. He died at the age of 88, January 26, 2016 (&lt;a href=&quot;http://www.csail.mit.edu/node/2682&quot;&gt;MIT Media Lab&lt;/a&gt; | &lt;a href=&quot;http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html&quot;&gt;NYTimes&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;A GitHub issue can be found &lt;a href=&quot;https://github.com/jasperproject/jasper-client/issues/20&quot;&gt;here&lt;/a&gt;, it talks about various problems people have faced on deployment of Jasper on ubuntu. I am here just to give it another shot.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Following are some excerpts from the book that I really found interesting.&lt;/p&gt;
 
-&lt;p&gt;&lt;b style=&quot;font-size:20pt&quot;&gt;Let’s start!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
-GitHub Project Link: &lt;a href=&quot;https://github.com/jasperproject/jasper-client&quot;&gt;https://github.com/jasperproject/jasper-client&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;&lt;h2&gt;INTRODUCTION&lt;/h2&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Focussing on the core components first. An idea has been provided in this &lt;a href=&quot;https://github.com/jasperproject/jasper-client/blob/master/client/requirements.txt&quot;&gt;requirements.txt file&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;If you “understand” something in only one way, then you scarcely understand it at all -- because when you get stuck, you will have nowhere to go. But if you represent something in several ways, then when you get frustrated enough, you can switch among different points of views until you find the one that works for you.
+IN AI: If a program works in only one way, then it gets stuck when that method fails. But a program that has several waysd to proceed could then swtich to some other approach, or search for a suitable substitute.&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-P.S.: I am still working on it, so if you are reading this post and it seems I am missing something / interpreted something wrong, feel free to drop me an email and we can solve this problem together! :D&lt;/p&gt;
+&lt;p&gt;The idea behind the book is firmly opposed to the popular view that each person has a central core -- some sort of invisible spirit or self -- from which all their mental abilities originate. For what seems a demeaning idea -- that all our virtues are second hand -- or that we don&#39;t deserve credit for our accomplishments, because they come to us as gifts from some other source. Instead, I see dignity stemming from what we each have made of ourselves: &lt;b&gt;a colossal colllection of different ways to deal with different situations and predicaments.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;May be useful&lt;/b&gt; (this part of my post basically lists further possible options to look at and analyze): &lt;a href=&quot;https://github.com/jasperproject/jasper-client/wiki/Roadmap&quot;&gt;Jasper Product Roadmap&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;Each of our major ways to think results from turning certain resources ON while turning others OFF and thus changing some ways that our brain behaves.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;Thinking&lt;/b&gt; is basically rational -- dry, detached and logical -- whereas emotions enliven our ways to think by adding irrational feelings and biases.&lt;/p&gt;
+
+&lt;blockquote&gt;Each reader reads only what is already inside himself. A book is only a sort of optical instrument which the writer offers to let the reader discover in himself what he would not have found without the aid of the book. -- Marcel Proust 1927&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;h2&gt;CHAPTER 1: Falling in Love&lt;/h2&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;In faith, I do not love thee with mine eyes, For they in thee a thousand errors note; But &#39;tis my heart that loves what they despise. -- Shakespeare&lt;/blockquote&gt;
+
+&lt;blockquote&gt;When my love swears that she is made of truth, I do believe her, though I know she lies. -- Shakespeare&lt;/blockquote&gt;
+
+&lt;p&gt;&quot;That was the beginning and the idea seemed so obvious to me that I fell deeply in love with it. And like falling in love with a woman, it is only possible if you don&#39;t know too much about her, so you cannot see her faults. The faults will become more apparent later, but after the love is strong enough to hold you to her. So I was held to this theory, in spite of all the difficulties, by my youthful enthusiasm.&quot; -- Richard Feynman (1966 Nobel Prize Lecture)&lt;/p&gt;
+
+&lt;p&gt;What does a lover actually love? That person should be the person whom you are attached -- but if your pleasure mainly results from suppressing your questions and doubts, then you are only in love with love itself.&lt;/p&gt;
+
+&lt;p&gt;Emotions change the way we percieve. &lt;b&gt;Anger&lt;/b&gt; makes us more inclined to attack. &lt;b&gt;Fear&lt;/b&gt; makes us retreat from dangerous things. &lt;/p&gt;
+
+&lt;blockquote&gt;When a person you know has fallen in love, it is almost as though someone new has emerged -- a person who thinkg in other ways, with altered goals and priorities. It is almost a switch had been thrown and a different program has started to run.&lt;/blockquote&gt;
+
+&lt;p&gt;Single-Self Concept: &lt;i&gt;Yout Self sees the world by using your senses. Then it stores what it learns in your memory. It originates all your desires and goals -- and then solves all your problems for you by exploiting your &quot;intelligence&quot;&lt;/i&gt;. Though, this concept has practical uses, it does not help us understand ourselves -- because it does not provide us with smaller parts we could use to build theories of what we are. When you think of yourself as a single thing, this gives you no clues about issues like these:&lt;br /&gt;
+What determines the subjects I think about?&lt;br /&gt;
+How do I choose what next to do?&lt;br /&gt;
+How can I solve this difficult problem?&lt;br /&gt;
+Instead, the Single-Self concept offers only useless answers like these:
+My Self selects what to think about.&lt;br /&gt; My Self decides what I should do next.&lt;br /&gt; I should try to make my Self get to work.&lt;/p&gt;
+
+&lt;blockquote&gt;Whenever you think about your &quot;Self&quot; you are switching among a huge network of models, each of which tries to irepresent some particular aspects of your mind -- to answer some questions about yourself.&lt;/blockquote&gt;
 </description>
-        <pubDate>Tue, 01 Mar 2016 14:43:00 +0000</pubDate>
-        <link>http://akshitarora.github.io/deployment/jasper/voicerecognition/siri/opensource/2016/03/01/deploying-jasper-ubuntu.html</link>
-        <guid isPermaLink="true">http://akshitarora.github.io/deployment/jasper/voicerecognition/siri/opensource/2016/03/01/deploying-jasper-ubuntu.html</guid>
+        <pubDate>Fri, 03 Jun 2016 05:51:00 +0000</pubDate>
+        <link>http://akshitarora.github.ioThe Emotion Machine - Marvin Minsky</link>
+        <guid isPermaLink="true">http://akshitarora.github.ioThe Emotion Machine - Marvin Minsky</guid>
         
         
-        <category>deployment</category>
+        <category>TheEmotionMachine</category>
         
-        <category>jasper</category>
+        <category>Marvin</category>
         
-        <category>VoiceRecognition</category>
+        <category>Minsky</category>
         
-        <category>Siri</category>
+        <category>ArtificialIntelligence</category>
         
-        <category>OpenSource</category>
+        <category>Book</category>
+        
+        <category>AI</category>
+        
+        <category>MIT</category>
         
       </item>
     
@@ -72,8 +104,8 @@ P.S.: I am still working on it, so if you are reading this post and it seems I a
 
 </description>
         <pubDate>Tue, 23 Feb 2016 20:12:00 +0000</pubDate>
-        <link>http://akshitarora.github.io/first/post/playground/initialize/beginning/2016/02/23/my-first-post.html</link>
-        <guid isPermaLink="true">http://akshitarora.github.io/first/post/playground/initialize/beginning/2016/02/23/my-first-post.html</guid>
+        <link>http://akshitarora.github.ioWelcome to Playground!</link>
+        <guid isPermaLink="true">http://akshitarora.github.ioWelcome to Playground!</guid>
         
         
         <category>first</category>
@@ -106,8 +138,8 @@ P.S.: I am still working on it, so if you are reading this post and it seems I a
 
 </description>
         <pubDate>Sun, 17 Jan 2016 11:23:32 +0000</pubDate>
-        <link>http://akshitarora.github.io/jekyll/update/2016/01/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://akshitarora.github.io/jekyll/update/2016/01/17/welcome-to-jekyll.html</guid>
+        <link>http://akshitarora.github.ioWelcome to Jekyll!</link>
+        <guid isPermaLink="true">http://akshitarora.github.ioWelcome to Jekyll!</guid>
         
         
         <category>jekyll</category>
