@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h3>Akshit Arora</h3>
+<center><img src="/IMG_1318.JPG"></center>
 I am Pre-final year Bachelor's of Computer Science and Engineering Student at Thapar University, Patiala, India. I love learning new things from my sorroundings. I am driven by my curiosity to know more about this world.
 
 I started out in machine learning in my first year in college, and since then, it has been a never ending fun for me. This blog comes in as a part of my self-motivation for pursuing ML and AI. 
