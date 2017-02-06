@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Playground</title>
+    <title>AkshitArora</title>
     <description>It&#39;s where I put the cool stuff (my experiments) that I do in topics like Machine Learning and Artificial Intelligence. I am inspired by a number of bloggers around the world like Frob Yard (by Siddha Ganju http://sidgan.me), Paul Stamatiou (http://paulstamatiou.com) etc.
 </description>
     <link>http://akshitarora.github.io/</link>
     <atom:link href="http://akshitarora.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jun 2016 14:29:25 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jun 2016 14:29:25 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2017 18:42:21 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2017 18:42:21 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -140,6 +140,10 @@ My Self selects what to think about.&lt;br /&gt; My Self decides what I should d
         <pubDate>Sun, 17 Jan 2016 11:23:32 +0000</pubDate>
         <link>http://akshitarora.github.ioWelcome to Jekyll!</link>
         <guid isPermaLink="true">http://akshitarora.github.ioWelcome to Jekyll!</guid>
+        
+        <category>jekyll</category>
+        
+        <category>code</category>
         
         
         <category>jekyll</category>

@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   It's where I put the cool stuff (my experiments) that I do in topics like Machine Learning and Artificial Intelligence. I am inspired by a number of bloggers around the world like Frob Yard (by Siddha Ganju http://sidgan.me), Paul Stamatiou (http://paulstamatiou.com) etc.
 baseurl: ""
 url: "http://akshitarora.github.io" # the base hostname & protocol for your site
-twitter_username: AkshitArora1995
+twitter_username: akshitarora1995
 github_username:  akshitarora
 
 # Build settings
@@ -22,3 +22,8 @@ markdown: kramdown
 timezone: IN
 author: Akshit Arora
 tumblr_username: aarora
+flickr_username:  akshitarora
+facebook_username:  akshitarora1995
+500px_username:  akshitarora
+instagram_username: akshit1995
+linkedin_username: akshitarora1995
