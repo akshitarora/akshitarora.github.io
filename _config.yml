@@ -7,9 +7,9 @@
 
 # Site settings
 title: AkshitArora
-email: akshit.arora1995@gmail.com
+email: akshit.arora@colorado.edu
 description: > # this means to ignore newlines until "baseurl:"
-  It's where I put the cool stuff (my experiments) that I do in topics like Machine Learning and Artificial Intelligence. I am inspired by a number of bloggers around the world like Frob Yard (by Siddha Ganju http://sidgan.me), Paul Stamatiou (http://paulstamatiou.com) etc.
+  Love to learn.
 baseurl: ""
 url: "http://akshitarora.github.io" # the base hostname & protocol for your site
 twitter_username: akshitarora1995
@@ -19,7 +19,7 @@ github_username:  akshitarora
 markdown: kramdown
 
 #additional settings from http://jekyllrb.com/docs/configuration/
-timezone: IN
+timezone: MDT
 author: Akshit Arora
 tumblr_username: aarora
 flickr_username:  akshitarora

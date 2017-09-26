@@ -1,18 +1,27 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
+<table cellpadding="5">
+	<tr >
+		<td style="vertical-align:top;text-align:center;" >
+			<img src="/akshit.JPG" width="1000" style="float:right">
+			Akshit Arora<br>
+			अक्षित अरोड़ा <br>
+			<font size="-1">("AHK-shiht Ah-RO-ruh")</font><br>
+			<a href="/akshit_cv.pdf">Resume</a><br>
+			<a href="https://www.linkedin.com/in/akshitarora1995/">LinkedIN</a><br>
+			<a href="https://twitter.com/AkshitArora1995">Twitter</a><br>
+		</td>
+		<td>
+			<p align="justify">
+				Currently, I am a graduate student at <a href="http://www.colorado.edu/">University of Colorado, Boulder</a>. My main research interests are Deep Learning, Data Science, Artificial Intelligence and Natural Language Processing. I did my bachelors from <a href="http://www.thapar.edu/">Thapar University, Patiala, India</a>.<br>
 
-<!--<img src="/akshit.JPG" height="500">-->
-I am final year Bachelor of Computer Science and Engineering Student at Thapar University, India. I love learning new things from my surroundings. I am driven by my curiosity to know more about this world.
+				During my undergraduate degree, I have worked in the area of Cognitive Science and Augmented Reality under the supervision of <a href="https://faculty.iitmandi.ac.in/~varun/">Dr. Varun Dutt</a> at <a href="http://acslab.org/">Applied Cognitive Science Laboratory (ACS Lab)</a>, <a href="http://iitmandi.ac.in/">Indian Institute of Technology (IIT), Mandi</a>. As a result of my internship at ACS Lab I got the opportunity to give oral presentations of 3 research papers at <a href="http://ahfe2016.org/">7th International Conference on Applied Human Factors and Ergonomics Conference (AHFE) 2016</a>, write one book chapter (published in <a href="https://link.springer.com/chapter/10.1007/978-3-319-41627-4_21">Springer</a>) and a journal paper (published in <a href="https://www.researchgate.net/publication/319471329_Learning_in_an_Interactive_Simulation_Tool_against_Landslide_Risks_The_Role_of_Amount_and_Availability_of_Experiential_Feedback">Natural Hazards Earth System Sciences</a>).<br>
 
-I started out in machine learning in my first year in college, and since then, it has been a never ending fun for me. This blog comes in as a part of my self-motivation for pursuing ML and AI. 
-
-I intend to play around with basic concepts of machine learning and publish them here as I grow up.
-
-I am also a part of <a href="pratik.acslab.org">Applied Cognitive Science Laboratory</a> at <a href="http://iitmandi.ac.in/">Indian Institute of Technology (IIT), Mandi</a>. My main interests are Machine Learning, Artificial Intelligence and Cognitive Sciences. We are working on a research tool: an Interactive Landslide Simulator. Feel free to check it out. -> <a href="http://pratik.acslab.org" title="Interactive Landslide Simulator">http://pratik.acslab.org</a>
-
-Research apart, I also love photography and listening to music. And I am always looking out for opportunities around travel, exploration and adrenaline rush ;)
-
-Blog still under development, more improvements coming soon!
+				Research apart, I love photography, hiking and listening to music. And I am always looking out for opportunities to travel. I regularly update my instagram (<a href="https://www.instagram.com/akshit1995/">akshit1995</a>) and 500px (<a href="https://500px.com/akshitarora">akshitarora</a>) profiles.
+			</p>
+		</td>
+	</tr>
+</table>
