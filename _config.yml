@@ -27,3 +27,5 @@ facebook_username:  akshitarora1995
 500px_username:  akshitarora
 instagram_username: akshit1995
 linkedin_username: akshitarora1995
+plugins_dir:
+  - jekyll-font-awesome
