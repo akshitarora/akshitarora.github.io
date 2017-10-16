@@ -4,11 +4,11 @@
     <title>AkshitArora</title>
     <description>Love to learn.
 </description>
-    <link>http://akshitarora.github.io/</link>
-    <atom:link href="http://akshitarora.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Sep 2017 17:34:04 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2017 17:34:04 +0000</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Oct 2017 21:16:38 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Oct 2017 21:16:38 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
     
       <item>
         <title>The Emotion Machine - Marvin Minsky</title>
@@ -22,7 +22,7 @@
 &lt;blockquote&gt;If you “understand” something in only one way, then you scarcely understand it at all -- because when you get stuck, you will have nowhere to go. But if you represent something in several ways, then when you get frustrated enough, you can switch among different points of views until you find the one that works for you.
 IN AI: If a program works in only one way, then it gets stuck when that method fails. But a program that has several waysd to proceed could then swtich to some other approach, or search for a suitable substitute.&lt;/blockquote&gt;
 
-&lt;p&gt;The idea behind the book is firmly opposed to the popular view that each person has a central core -- some sort of invisible spirit or self -- from which all their mental abilities originate. For what seems a demeaning idea -- that all our virtues are second hand -- or that we don&#39;t deserve credit for our accomplishments, because they come to us as gifts from some other source. Instead, I see dignity stemming from what we each have made of ourselves: &lt;b&gt;a colossal colllection of different ways to deal with different situations and predicaments.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The idea behind the book is firmly opposed to the popular view that each person has a central core -- some sort of invisible spirit or self -- from which all their mental abilities originate. For what seems a demeaning idea -- that all our virtues are second hand -- or that we don't deserve credit for our accomplishments, because they come to us as gifts from some other source. Instead, I see dignity stemming from what we each have made of ourselves: &lt;b&gt;a colossal colllection of different ways to deal with different situations and predicaments.&lt;/b&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;Each of our major ways to think results from turning certain resources ON while turning others OFF and thus changing some ways that our brain behaves.&lt;/blockquote&gt;
 
@@ -34,11 +34,11 @@ IN AI: If a program works in only one way, then it gets stuck when that method f
 &lt;center&gt;&lt;h2&gt;CHAPTER 1: Falling in Love&lt;/h2&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;In faith, I do not love thee with mine eyes, For they in thee a thousand errors note; But &#39;tis my heart that loves what they despise. -- Shakespeare&lt;/blockquote&gt;
+&lt;blockquote&gt;In faith, I do not love thee with mine eyes, For they in thee a thousand errors note; But 'tis my heart that loves what they despise. -- Shakespeare&lt;/blockquote&gt;
 
 &lt;blockquote&gt;When my love swears that she is made of truth, I do believe her, though I know she lies. -- Shakespeare&lt;/blockquote&gt;
 
-&lt;p&gt;&quot;That was the beginning and the idea seemed so obvious to me that I fell deeply in love with it. And like falling in love with a woman, it is only possible if you don&#39;t know too much about her, so you cannot see her faults. The faults will become more apparent later, but after the love is strong enough to hold you to her. So I was held to this theory, in spite of all the difficulties, by my youthful enthusiasm.&quot; -- Richard Feynman (1966 Nobel Prize Lecture)&lt;/p&gt;
+&lt;p&gt;&quot;That was the beginning and the idea seemed so obvious to me that I fell deeply in love with it. And like falling in love with a woman, it is only possible if you don't know too much about her, so you cannot see her faults. The faults will become more apparent later, but after the love is strong enough to hold you to her. So I was held to this theory, in spite of all the difficulties, by my youthful enthusiasm.&quot; -- Richard Feynman (1966 Nobel Prize Lecture)&lt;/p&gt;
 
 &lt;p&gt;What does a lover actually love? That person should be the person whom you are attached -- but if your pleasure mainly results from suppressing your questions and doubts, then you are only in love with love itself.&lt;/p&gt;
 
@@ -56,8 +56,8 @@ My Self selects what to think about.&lt;br /&gt; My Self decides what I should d
 &lt;blockquote&gt;Whenever you think about your &quot;Self&quot; you are switching among a huge network of models, each of which tries to irepresent some particular aspects of your mind -- to answer some questions about yourself.&lt;/blockquote&gt;
 </description>
         <pubDate>Fri, 03 Jun 2016 05:51:00 +0000</pubDate>
-        <link>http://akshitarora.github.ioThe Emotion Machine - Marvin Minsky</link>
-        <guid isPermaLink="true">http://akshitarora.github.ioThe Emotion Machine - Marvin Minsky</guid>
+        <link>http://localhost:4000The Emotion Machine - Marvin Minsky</link>
+        <guid isPermaLink="true">http://localhost:4000The Emotion Machine - Marvin Minsky</guid>
         
         
         <category>TheEmotionMachine</category>
@@ -88,24 +88,28 @@ My Self selects what to think about.&lt;br /&gt; My Self decides what I should d
 
 &lt;p&gt;Surprisingly, I was introduced to Machine Learning in my first year in college at an IEEE conference in my University. Back then, without much basics clear, I was unable to pursue it, but now that I have the pre-requisites, and thanks to &lt;a href=&quot;http://coursera.org&quot;&gt;Coursera&lt;/a&gt; for making this one possible, I will be completing my coursework on machine learning soon. I am evolving right now, in machine learning and main objective behind setting up this blog is self-motivation. With machine learning, it has always been like “The more I discovered, the more I fell in love”. So, yeah, this is, perhaps, a new beginning in my life and this blog is all about my little playground ;)&lt;/p&gt;
 
-&lt;p&gt;There a number of people who inspired me for setting up a blog. To mention a few: &lt;br /&gt;
-&amp;gt; Siddha Ganju (sidgan) &lt;a href=&quot;http://sidgan.me&quot;&gt;http://sidgan.me&lt;/a&gt; &lt;br /&gt;
-&amp;gt; Paul Stamatiou &lt;a href=&quot;http://paulstamatiou.com/10-years-blogging/&quot;&gt;http://paulstamatiou.com&lt;/a&gt;&lt;br /&gt;
-&amp;gt; Derbhagya Das (Deedy) &lt;a href=&quot;http://debarghyadas.com/&quot;&gt;http://debarghyadas.com/&lt;/a&gt;&lt;br /&gt;
-&amp;gt; Mark Manson &lt;a href=&quot;http://markmanson.net/&quot;&gt;http://markmanson.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There a number of people who inspired me for setting up a blog. To mention a few: &lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Siddha Ganju (sidgan) &lt;a href=&quot;http://sidgan.me&quot;&gt;http://sidgan.me&lt;/a&gt; &lt;br /&gt;
+Paul Stamatiou &lt;a href=&quot;http://paulstamatiou.com/10-years-blogging/&quot;&gt;http://paulstamatiou.com&lt;/a&gt;&lt;br /&gt;
+Derbhagya Das (Deedy) &lt;a href=&quot;http://debarghyadas.com/&quot;&gt;http://debarghyadas.com/&lt;/a&gt;&lt;br /&gt;
+Mark Manson &lt;a href=&quot;http://markmanson.net/&quot;&gt;http://markmanson.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;This blog took me a while to set it all up, switching between different theme options, command line issues, but finally here it is. Let me make this work easy for you, if you too want to start blogging using Jekyll, these are some links you should definetly visit: &lt;br /&gt;
-&amp;gt; Jekyll documentation: &lt;a href=&quot;http://jekyllrb.com/docs&quot;&gt;http://jekyllrb.com/docs&lt;/a&gt; &lt;br /&gt;
-&amp;gt; Jekyll bootstrap: &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;http://jekyllbootstrap.com/&lt;/a&gt; &lt;br /&gt;
-&amp;gt; The blogs by Sidgan and Deedy are good examples to look up to.&lt;br /&gt;
-&amp;gt; Play around the code a bit, if you know some basic command line, CSS and HTML, you will understand the workaround in jekyll very easily.&lt;/p&gt;
+&lt;p&gt;This blog took me a while to set it all up, switching between different theme options, command line issues, but finally here it is. Let me make this work easy for you, if you too want to start blogging using Jekyll, these are some links you should definetly visit: &lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll documentation: &lt;a href=&quot;http://jekyllrb.com/docs&quot;&gt;http://jekyllrb.com/docs&lt;/a&gt; &lt;br /&gt;
+Jekyll bootstrap: &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;http://jekyllbootstrap.com/&lt;/a&gt; &lt;br /&gt;
+The blogs by Sidgan and Deedy are good examples to look up to.&lt;br /&gt;
+Play around the code a bit, if you know some basic command line, CSS and HTML, you will understand the workaround in jekyll very easily.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Good Bye! Cheerios!&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 23 Feb 2016 20:12:00 +0000</pubDate>
-        <link>http://akshitarora.github.ioWelcome to Playground!</link>
-        <guid isPermaLink="true">http://akshitarora.github.ioWelcome to Playground!</guid>
+        <link>http://localhost:4000Welcome to Playground!</link>
+        <guid isPermaLink="true">http://localhost:4000Welcome to Playground!</guid>
         
         
         <category>first</category>
@@ -131,15 +135,15 @@ My Self selects what to think about.&lt;br /&gt; My Self decides what I should d
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 17 Jan 2016 11:23:32 +0000</pubDate>
-        <link>http://akshitarora.github.ioWelcome to Jekyll!</link>
-        <guid isPermaLink="true">http://akshitarora.github.ioWelcome to Jekyll!</guid>
+        <link>http://localhost:4000Welcome to Jekyll!</link>
+        <guid isPermaLink="true">http://localhost:4000Welcome to Jekyll!</guid>
         
         <category>jekyll</category>
         
