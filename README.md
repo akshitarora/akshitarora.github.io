@@ -1,6 +1,8 @@
-# akshitarora.github.io
+# aroraakshit.github.io
 
-This is my second personal website after [https://aroraakshit.github.io/](https://aroraakshit.github.io/). This was built using [Carte-Noir theme](https://github.com/aroraakshit/carte-noire) by [Jacob Tomlinson](https://github.com/jacobtomlinson). The intention behind this repo is for casual blogging.
++ Used [Jekyll](https://jekyllrb.com/)
++ Used [TaylanTatli's Moon theme](https://github.com/TaylanTatli/Moon)
++ Type effect by [TypedJS](http://www.mattboldt.com/demos/typed-js/)
 
-### Contact
-If you wish to contact the creator regarding this theme please raise an issue on GitHub, tweet him [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) or email him [jacob@jacobtomlinson.co.uk](mailto:jacob@jacobtomlinson.co.uk).
+
+I would love to have your feedback -> [akshit.arora@colorado.edu](mailto:akshit.arora@colorado.edu)
