@@ -1,31 +1,31 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
-baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
+title: "Akshit Arora"
+email: akshit.arora@colorado.edu
+description: "Artificial Intelligence, Deep Learning and Photography"
+baseurl: "https://akshitarora.github.io/"
+url: "https://akshitarora.github.io/"
+title_description: "I am a graduate student in Computer Science at CUBoulder<br>Interested in Artificial Intelligence, Deep Learning and Photography!<br><a href="mailto:akshit.arora@colorado.edu">akshit [dot] arora [at] colorado [dot] edu</a>"
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
-addthis_id: ra-513c6fa83da6ec67
+google_analytics: "UA-109066326-1"
+disqus_account: akshitarora
+github_repository: https://github.com/aroraakshit/carte-noire
+addthis_id: ra-59f92e11f7baa2ae 
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
-instagram_username: 
+twitter_username: AkshitArora
+github_username:  aroraakshit
+instagram_username: akshit1995
 reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: https://www.linkedin.com/in/akshitarora1995/
+google_plus_link:
+stackoverflow_link: 
 xing_link:
-facebook_link:
+facebook_link: https://www.facebook.com/AkshitArora1995
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a> and modified by <a href=\"https://twitter.com/AkshitArora1995\"></a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/aroraakshit/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
